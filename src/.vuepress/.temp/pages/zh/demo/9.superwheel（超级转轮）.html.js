@@ -1,0 +1,16 @@
+import comp from "/Users/apple/code/my-docs/src/.vuepress/.temp/pages/zh/demo/9.superwheel（超级转轮）.html.vue"
+const data = JSON.parse("{\"path\":\"/zh/demo/9.superwheel%EF%BC%88%E8%B6%85%E7%BA%A7%E8%BD%AC%E8%BD%AE%EF%BC%89.html\",\"title\":\"9.superwheel（超级转轮）\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"9.superwheel（超级转轮）\",\"icon\":\"fa6-brands:markdown\",\"order\":2,\"category\":[\"使用指南\"],\"tag\":[\"小游戏\"],\"description\":\"游戏说明 超级转轮（Super Wheel） 是经典游戏 \\\"命运之轮（Wheel of Fortune）\\\" 的升级版本！ ▸ 转轮设有 3个层级 ▸ 玩家可赢取的 奖金价值随层级提升而递增 玩法说明 选择投注金额 点击 \\\"旋转\\\"按钮 启动转轮 核心机制图解 关键特性说明 术语对照表 运作流程示例 设计优势分析 成瘾性设计 层级递进制造 \\\"差一点就升级\\\"...\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"9.superwheel（超级转轮）\\\",\\\"image\\\":[\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999884821-46b032e3-99fd-43ad-bacc-fb3bd1ebd31e.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1750003776725-c75925ee-2be3-45a6-a3cd-043054ad1920.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1750044126323-ce0b3c70-1b68-46bf-ad0b-5ec6067d21a8.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999123850-9211bc26-129f-4cf5-98bc-2b896e75c5fe.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999142322-b49b5576-1430-46fc-99aa-248a77d59753.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999142267-fdb9ac43-c1a5-42be-952a-a8aef3f445f4.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999439098-76a053da-f1eb-4e71-86b2-9544991bd974.png\\\",\\\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999226051-b0960950-dc2d-46df-8ead-c43a0a218ff2.png\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Mr.Hope\\\",\\\"url\\\":\\\"https://mister-hope.com\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/zh/demo/9.superwheel%EF%BC%88%E8%B6%85%E7%BA%A7%E8%BD%AC%E8%BD%AE%EF%BC%89.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"中文\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"9.superwheel（超级转轮）\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"游戏说明 超级转轮（Super Wheel） 是经典游戏 \\\"命运之轮（Wheel of Fortune）\\\" 的升级版本！ ▸ 转轮设有 3个层级 ▸ 玩家可赢取的 奖金价值随层级提升而递增 玩法说明 选择投注金额 点击 \\\"旋转\\\"按钮 启动转轮 核心机制图解 关键特性说明 术语对照表 运作流程示例 设计优势分析 成瘾性设计 层级递进制造 \\\"差一点就升级\\\"...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.nlark.com/yuque/0/2025/png/35742495/1749999884821-46b032e3-99fd-43ad-bacc-fb3bd1ebd31e.png\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"小游戏\"}]]},\"readingTime\":{\"minutes\":3.81,\"words\":1144},\"filePathRelative\":\"zh/demo/9.superwheel（超级转轮）.md\",\"autoDesc\":true}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
